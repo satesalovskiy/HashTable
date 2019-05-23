@@ -1,0 +1,3 @@
+﻿  hash.cpp
+c:\users\пк\source\repos\hashtable\hashtable\hash.cpp(190): warning C4018: <: несоответствие типов со знаком и без знака
+  HashTable.vcxproj -> C:\Users\пк\source\repos\HashTable\Debug\HashTable.exe
